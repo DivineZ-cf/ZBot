@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZBot Auto-Checker", "GPU Bot Checker\ZBot Auto-Checker.csproj", "{A05C6457-BD3D-47AE-9AB9-3E8F2E9B4B5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A05C6457-BD3D-47AE-9AB9-3E8F2E9B4B5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A05C6457-BD3D-47AE-9AB9-3E8F2E9B4B5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A05C6457-BD3D-47AE-9AB9-3E8F2E9B4B5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A05C6457-BD3D-47AE-9AB9-3E8F2E9B4B5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {518C0D94-DDE7-49C0-94C3-75ADAE253A48}
+	EndGlobalSection
+EndGlobal
