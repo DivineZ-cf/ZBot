@@ -3,3 +3,5 @@ An Simple Auto Bot Checker to help purchase the latest GPU and Consoles without 
 
 How it works:
 Uses simple webClient to see whether a site is in stock for a certain GPU, or Console.
+
+Still adding more things to it will update it soon k.
